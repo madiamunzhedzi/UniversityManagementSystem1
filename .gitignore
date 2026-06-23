@@ -1,0 +1,12 @@
+# Compiled output
+build/
+dist/
+*.class
+
+# NetBeans local files
+nbproject/private/
+.nb-gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
